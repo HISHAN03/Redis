@@ -1,0 +1,5 @@
+redis is a tool which acts as a cache memory for quicker access of data to the user
+it stores data in main-memory(RAM) rather than secondary memory(Hard disk)
+it uses non-relational method to store data
+it is also used as message broker to communicate with different parts of computer
+it is also used to create a real time messaging app 
