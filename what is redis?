@@ -3,3 +3,4 @@ it stores data in main-memory(RAM) rather than secondary memory(Hard disk)
 it uses non-relational method to store data
 it is also used as message broker to communicate with different parts of computer
 it is also used to create a real time messaging app 
+redis is very usefull for future generation
